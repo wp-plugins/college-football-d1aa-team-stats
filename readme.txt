@@ -1,13 +1,12 @@
-=== CFB_D1AA Team Stats ===
+=== NCAA Football Team Stats Division 1AA ===
 Contributors: bpmee31
 Donate link: http://www.ibet.ws/cfb_D1AA_team_stats_page.php
 Tags: college football, ncaa football, ncaaf, college football stats, football, nfl, ncaa football stats, ncaa, ncaa news, sports stats, stats, divion 1 football, ncaa divion 1 football, ncaa d1
 Requires at least: 2.2.0
 Tested up to: 3.0
-Stable tag: 0.8
+Stable tag: 0.8.1
 
-CFB_D1AA Team Stats allows bloggers display an CFB_D1AA team's standings within their sidebar.
-
+NCAA Football Team Stats Division 1AA Team Stats allows bloggers display an NCAA Football team's standings within their sidebar.
 == Description ==
 
 CFB D1AA Team Stats plugin can be added to any blog with a dynamic sidebar. Once installed, the blogger can choose their favorite CFB D1AA Team 
