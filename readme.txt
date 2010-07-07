@@ -12,6 +12,122 @@ NCAA College Football Team Stats Division 1AA Team Stats allows bloggers display
 
 NCAA College Football Team Stats Division 1AA Team Stats allows bloggers display an NCAAF Football team's standings within their sidebar.
 
+NCAA Football D1AA Team List Reference (For D1A Teams see our other plugin):
+
+Alabama A&M Bulldogs
+Alabama State Hornets
+Albany Great Danes
+Alcorn State Braves
+Appalachian State Mountaineers
+Arkansas-Pine Bluff Golden Lions
+Austin Peay Governors
+Bethune-Cookman Wildcats
+Brown Bears
+Bucknell Bison
+Butler Bulldogs
+Cal Poly Mustangs
+California-Davis Aggies
+Campbell Fighting Camels
+Central Arkansas Bears
+Central Connecticut State Blue Devils
+Chattanooga Mocs
+Citadel Bulldogs
+Colgate Raiders
+Columbia Lions
+Cornell Big Red
+Dartmouth Big Green
+Davidson Wildcats
+Dayton Flyers
+Delaware Blue Hens
+Delaware State Hornets
+Drake Bulldogs
+Duquesne Dukes
+Eastern Illinois Panthers
+Eastern Kentucky Colonels
+Eastern Washington Eagles
+Elon Phoenix
+Florida A&M Rattlers
+Fordham Rams
+Furman Paladins
+Georgetown Hoyas
+Georgia Southern Eagles
+Grambling State Tigers
+Hampton Pirates
+Harvard Crimson
+Hofstra Pride
+Holy Cross Crusaders
+Howard Bison
+Idaho State Bengals
+Illinois State Redbirds
+Indiana State Sycamores
+Jackson State Tigers
+Jacksonville Dolphins
+Jacksonville State Gamecocks
+James Madison Dukes
+Lafayette Leopards
+Lehigh Mountain Hawks
+Maine Black Bears
+Marist Red Foxes
+Massachusetts Minutemen
+McNeese State Cowboys
+Mississippi Valley State Delta Devils
+Missouri State Bears
+Monmouth Hawks
+Montana Grizzlies
+Montana State Bobcats
+Morehead State Eagles
+Morgan State Bears
+Murray State Racers
+New Hampshire Wildcats
+Nicholls State Colonels
+Norfolk State Spartans
+North Carolina A&T Aggies
+North Dakota Fighting Sioux
+North Dakota State Bison
+Northeastern Huskies
+Northern Arizona Lumberjacks
+Northern Colorado Bears
+Northern Iowa Panthers
+Northwestern State Demons
+Pennsylvania Quakers
+Portland State Vikings
+Prairie View A&M Panthers
+Princeton Tigers
+Rhode Island Rams
+Richmond Spiders
+Robert Morris Colonials
+Sacramento State Hornets
+Sacred Heart Pioneers
+Sam Houston State Bearkats
+Samford Bulldogs
+San Diego Toreros
+South Carolina State Bulldogs
+South Dakota Coyotes
+South Dakota State Jackrabbits
+Southeast Missouri State Redhawks
+Southeastern Louisiana Lions
+Southern Illinois Salukis
+Southern University Jaguars
+Southern Utah Thunderbirds
+St. Francis (PA) Red Flash
+Stephen F. Austin Lumberjacks
+Tennessee-Martin Skyhawks
+Tennessee State Tigers
+Tennessee Tech Golden Eagles
+Texas Southern Tigers
+Texas State Bobcats
+Towson Tigers
+Valparaiso Crusaders
+Villanova Wildcats
+Wagner Seahawks
+Weber State Wildcats
+Western Carolina Catamounts
+Western Illinois Leathernecks
+William & Mary Tribe
+Wofford Terriers
+Yale Bulldogs
+Youngstown State Penguins
+
 CFB D1AA Team Stats plugin can be added to any blog with a dynamic sidebar. Once installed, the blogger can choose their favorite CFB D1AA Team 
 and the type of display they want (compact or large). The stats are updated each week of the CFB D1AA regular season, so that blog 
 visitors can keep track of all the important CFB D1AA team standings and stats. Additionally, teams qualifying for post-season play are denoted automatically 
@@ -79,6 +195,9 @@ website? Sure. Can I post on an adult website? Sure - Keep it legal. Can I post 
 the CFB_D1AA Stats through the form on this page, since you already have the software. This request form is for users who do not use WP, or would like a simplified version of the CFB_D1AA stats plugin.
 
 == Changelog ==
+
+= 0.8.2 =
+Updated Readme.txt file for better plugin search matches
 
 = 0.8 =
 First Release to general public on Wordpress.org Plugins Directory. Help us work out bugs!
