@@ -191,8 +191,7 @@ website? Sure. Can I post on an adult website? Sure - Keep it legal. Can I post 
 
 == Screenshots ==
 
-1. We're working on getting screenshots. For now, visit http://www.thoseamazingparks.com/getstats.php to see an example. Note, do not submit your name and request 
-the CFB_D1AA Stats through the form on this page, since you already have the software. This request form is for users who do not use WP, or would like a simplified version of the CFB_D1AA stats plugin.
+1. Sample Screen Shot of Stats `/tags/0.8.2/screenshot-1.png`
 
 == Changelog ==
 
